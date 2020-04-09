@@ -379,4 +379,4 @@ End Function
 Function to_approximate#(x#)
     Return x*x
 End Function
-; #################################  <- I had to isert this or I would have gone mad
+; #################################  <- I had to insert this or I would have gone mad
